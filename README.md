@@ -55,7 +55,7 @@ I build and scale distributed backend systems, and I lead the engineers who keep
 
 ### Featured project
 
-**[clickup-eng-analytics](https://github.com/zihar/clickup-eng-analytics)** — a Python tool that pulls data from the ClickUp REST API and Postgres to compute team throughput, lead/cycle time, and status-flow bottlenecks (median/p90), then correlates them with GitLab commit activity into Markdown reports. Built to guide real engineering-productivity decisions.
+**[engineering-productivity](https://github.com/zihar/engineering-productivity)** — a Python tool that combines **ClickUp** (tasks) and **GitLab** (commits) to compute team throughput, lead/cycle time, and status-flow bottlenecks (median/p90), correlating delivery data into Markdown reports. Built to guide real engineering-productivity decisions.
 
 ### Let's connect
 
